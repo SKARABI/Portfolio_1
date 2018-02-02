@@ -80,3 +80,10 @@ nav {
 #submit {
     margin-left: 71px;
 }
+
+/* FOOTER */
+.page-footer {
+    padding-top: 1px;
+    color: black;
+    background-color: papayawhip;
+}
