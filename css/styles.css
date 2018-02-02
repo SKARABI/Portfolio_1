@@ -1,0 +1,39 @@
+/* STYLESHEET OF THE FIRST PORTFOLIO*/
+
+/* NAVBAR */
+nav {
+    background-color: wheat;
+}
+ a.logo {
+    color: #000;
+    font-family: 'Lora';
+    text-decoration: none;
+}
+
+.fa-instagram ,.fa-twitter , .fa-sistrix , .fa-align-justify{
+    color: #000000;
+    font-size: 15px;
+}
+.fa-instagram ,.fa-twitter , .fa-sistrix {
+    margin-right: -2px;
+    font-size: 19px;
+}
+.fa-align-justify:before {
+    content: "\f039";
+    padding: 119px;
+    font-size: 21px;
+    cursor: pointer;
+}
+.boundary {
+    border-right: 1px lightgray double;
+    padding-right: 10px;
+}
+/* END */
+
+/* IMAGES */
+.row {
+    margin-left: 89px;
+}
+.label1 {
+    margin-left: 100px;
+}
