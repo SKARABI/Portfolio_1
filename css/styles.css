@@ -2,12 +2,15 @@
 
 /* NAVBAR */
 nav {
-    background-color: wheat;
+    background-color: floralwhite;
+    height: 61px;
+    line-height: 64px;
 }
  a.logo {
     color: #000;
-    font-family: 'Lora';
+    font-family: 'Cinzel';
     text-decoration: none;
+    font-size: 50px;
 }
 
 .fa-instagram ,.fa-twitter , .fa-sistrix , .fa-align-justify{
@@ -36,4 +39,44 @@ nav {
 }
 .label1 {
     margin-left: 100px;
+    margin-top: 86px;
+}
+
+/* SUBSCRIBE DEMO */
+
+.hello_subscribe{
+    font-family: 'Cinzel';
+    margin-left: 524px;
+    font-size: 34px;
+}
+.subscribe {
+    font-family: 'Cinzel';
+    text-align: center;
+    font-size: 27px;
+}
+.label2 {
+    margin-top: 82px;
+}
+.label0 {
+    margin-top: 50px;
+}
+.row .col.s5 {
+    width: 25%;
+    margin-left: auto;
+    left: 470px;
+    right: auto;
+    margin-top: 35px;
+}
+.btn, .btn-large {
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Satisfy';
+
+}
+.btn:hover{
+    background-color: ghostwhite;
+    color: #000;
+}
+#submit {
+    margin-left: 71px;
 }
