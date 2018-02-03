@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="393" column="89" lean-forward="false" selection-start-line="393" selection-start-column="89" selection-end-line="393" selection-end-column="89" />
+            <state relative-caret-position="345">
+              <caret line="51" column="46" lean-forward="false" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -31,8 +31,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="105" column="20" lean-forward="false" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+            <state relative-caret-position="252">
+              <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -55,6 +55,7 @@
       <find>.label2</find>
       <find>.row .</find>
       <find>font</find>
+      <find>.btn .btn-primary</find>
       <find>logos1</find>
     </findStrings>
   </component>
@@ -157,12 +158,12 @@
       <workItem from="1517582742573" duration="2654000" />
       <workItem from="1517587379613" duration="15103000" />
       <workItem from="1517649160345" duration="1279000" />
-      <workItem from="1517686541180" duration="1576000" />
+      <workItem from="1517686541180" duration="2665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22402000" />
+    <option name="totallyTimeSpent" value="23491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="0" width="1368" height="780" extended-state="6" />
@@ -280,16 +281,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="393" column="89" lean-forward="false" selection-start-line="393" selection-start-column="89" selection-end-line="393" selection-end-column="89" />
+        <state relative-caret-position="345">
+          <caret line="51" column="46" lean-forward="false" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="105" column="20" lean-forward="false" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+        <state relative-caret-position="252">
+          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
           <folding />
         </state>
       </provider>

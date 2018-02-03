@@ -40,6 +40,7 @@ nav {
 .label1 {
     margin-left: 100px;
     margin-top: 86px;
+    margin-bottom: 71px;
 }
 
 /* SUBSCRIBE DEMO */
@@ -68,9 +69,10 @@ nav {
     margin-top: 71px;
 }
 .btn, .btn-large {
-    background-color: antiquewhite;
-    color: black;
+    background-color: crimson;
+    color: wheat;
     font-family: 'Satisfy';
+
 
 }
 .btn:hover{
@@ -85,7 +87,7 @@ nav {
 .page-footer {
     padding-top: 1px;
     color: black;
-    background-color: papayawhip;
+    background-color: bisque;
 }
 
 /* SUBSCRIPTION LOGO */
@@ -105,3 +107,11 @@ nav {
     font-family: 'Cinzel';
     cursor: pointer;
 }
+
+/* ARTICLES */
+
+h5 , p {
+    font-family: Satisfy;
+    color: crimson;
+}
+
