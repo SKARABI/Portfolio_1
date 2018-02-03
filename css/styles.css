@@ -72,8 +72,7 @@ nav {
     background-color: crimson;
     color: wheat;
     font-family: 'Satisfy';
-
-
+    margin-left: 32px;
 }
 .btn:hover{
     background-color: ghostwhite;
