@@ -8,10 +8,15 @@ nav {
 }
  a.logo {
     color: #000;
-    font-family: 'Cinzel';
+    font-family: 'Satisfy';
     text-decoration: none;
     font-size: 50px;
 }
+ .logo:first-letter {
+     color: crimson;
+     font-weight: bold;
+     font-size: 50px;
+ }
 
 .fa-instagram ,.fa-twitter , .fa-sistrix , .fa-align-justify{
     color: #000000;
@@ -59,7 +64,7 @@ nav {
     margin-top: 82px;
 }
 .label0 {
-    margin-top: 50px;
+    margin-top: 127px;
 }
 .row .col.s5 {
     width: 25%;
@@ -73,6 +78,7 @@ nav {
     color: wheat;
     font-family: 'Satisfy';
     margin-left: 32px;
+    font-weight: bold;
 }
 .btn:hover{
     background-color: ghostwhite;
@@ -118,5 +124,15 @@ h5 , p {
 /* CARDS */
 
 .card .card-title {
-    font-size: 33px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* ARABIC WORDS */
+
+.arabic {
+    font-family: 'Aref Ruqaa';
+    font-size: 72px;
+    margin-left: 50px;
+    margin-top: 74px;
 }
