@@ -87,7 +87,7 @@ nav {
 .page-footer {
     padding-top: 1px;
     color: black;
-    background-color: bisque;
+    background-color: cornsilk;
 }
 
 /* SUBSCRIPTION LOGO */
@@ -101,11 +101,13 @@ nav {
 /* FOOTER */
 
 #style {
-    font-family: 'Cinzel';
+    font-family: 'Satisfy';
+    color: crimson;
 }
 #style2 {
-    font-family: 'Cinzel';
+    font-family: 'Satisfy';
     cursor: pointer;
+    color: crimson;
 }
 
 /* ARTICLES */
@@ -114,4 +116,8 @@ h5 , p {
     font-family: Satisfy;
     color: crimson;
 }
+/* CARDS */
 
+.card .card-title {
+    font-size: 33px;
+}
