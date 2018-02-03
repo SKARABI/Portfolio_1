@@ -108,11 +108,13 @@ nav {
 #style {
     font-family: 'Satisfy';
     color: crimson;
+    font-weight: bold;
 }
 #style2 {
     font-family: 'Satisfy';
     cursor: pointer;
     color: crimson;
+    font-weight: bold;
 }
 
 /* ARTICLES */
