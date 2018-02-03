@@ -95,3 +95,13 @@ nav {
     font-size: 40px;
     margin-top: 8px;
 }
+
+/* FOOTER */
+
+#style {
+    font-family: 'Cinzel';
+}
+#style2 {
+    font-family: 'Cinzel';
+    cursor: pointer;
+}
