@@ -147,3 +147,18 @@ h5 , p {
     margin-left: 566px;
     margin-top: 56px;
 }
+
+/* THE ICON IN THE NAVBAR */
+.icon {
+    margin-left: 119px;
+    cursor: pointer;
+}
+
+/* CHANGE THE COLOR OF THE EMAIL IN SUBSCRIBE */
+
+.input-field label {
+    color: crimson;
+    font-family: Satisfy;
+    font-size: 20px;
+}
+
