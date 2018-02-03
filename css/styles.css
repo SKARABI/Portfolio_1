@@ -10,7 +10,8 @@ nav {
     color: #000;
     font-family: 'Satisfy';
     text-decoration: none;
-    font-size: 50px;
+    font-size: 60px;
+    line-height: 69px;
 }
  .logo:first-letter {
      color: crimson;
@@ -137,4 +138,5 @@ h5 , p {
     font-size: 72px;
     margin-left: 50px;
     margin-top: 74px;
+    margin-bottom: 46px;
 }
