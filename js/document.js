@@ -1,4 +1,4 @@
-// Initialize collapse button
-$(".button-collapse").sideNav();
-// Initialize collapsible (uncomment the line below if you use the dropdown variation)
-//$('.collapsible').collapsible();
+/*I ZOOM THE PICTURES IN THE CARDS*/
+$(document).ready(function(){
+    $('.materialboxed').materialbox();
+});
