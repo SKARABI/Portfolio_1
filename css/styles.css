@@ -65,7 +65,7 @@ nav {
     margin-left: auto;
     left: 470px;
     right: auto;
-    margin-top: 35px;
+    margin-top: 71px;
 }
 .btn, .btn-large {
     background-color: antiquewhite;
@@ -91,5 +91,7 @@ nav {
 /* SUBSCRIPTION LOGO */
 
 #logos1 {
-    margin-left: 50px;
+    margin-left: 277px;
+    font-size: 40px;
+    margin-top: 8px;
 }
