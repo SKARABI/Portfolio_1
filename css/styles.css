@@ -3,9 +3,10 @@
 /* NAVBAR */
 nav {
     background-color: floralwhite;
-    height: 61px;
-    line-height: 64px;
+    height: 83px;
+    line-height: 78px;
 }
+
  a.logo {
     color: #000;
     font-family: 'Satisfy';
@@ -85,6 +86,7 @@ nav {
     background-color: ghostwhite;
     color: #000;
 }
+
 #submit {
     margin-left: 71px;
 }
