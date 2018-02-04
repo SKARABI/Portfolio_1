@@ -1,2 +1,1 @@
-This is a Skye Portfolio
-![alt text](~/home/skarabi/Documents/SkyePortfolio.png)
+This is a Skye Portfolio For Web Design #1
