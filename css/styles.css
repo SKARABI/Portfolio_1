@@ -154,6 +154,7 @@ h5 , p {
 .icon {
     margin-left: 119px;
     cursor: pointer;
+    margin-bottom: 11px;
 }
 
 /* CHANGE THE COLOR OF THE EMAIL IN SUBSCRIBE */
@@ -163,4 +164,3 @@ h5 , p {
     font-family: Satisfy;
     font-size: 20px;
 }
-
